@@ -7,6 +7,7 @@ A comprehensive Streamlit application that demonstrates AI-powered approaches to
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 [Intial Product](https://v1-carbonshift-ai-a1262e07-934b-4c97-8989-e852fe6c6250.build-preview.cloudflare.dev/)
+[Research Paper Link](https://drive.google.com/file/d/1ceiyr0FHAqlfQVXXji9XTbQ7PlLyB4F1/view?usp=sharing)
 
 ## 📋 Table of Contents
 
