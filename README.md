@@ -1,4 +1,4 @@
-# 🌱 CarbonShift AI - AI-Driven Carbon Footprint Reduction in Supply Chain Management
+# CarbonShift AI - AI-Driven Carbon Footprint Reduction in Supply Chain Management
 
 A comprehensive Streamlit application that demonstrates AI-powered approaches to reduce carbon footprint in supply chain management operations.
 
@@ -9,7 +9,7 @@ A comprehensive Streamlit application that demonstrates AI-powered approaches to
 [Intial Product](https://v1-carbonshift-ai-a1262e07-934b-4c97-8989-e852fe6c6250.build-preview.cloudflare.dev/)
 [Research Paper Link](https://drive.google.com/file/d/1ceiyr0FHAqlfQVXXji9XTbQ7PlLyB4F1/view?usp=sharing)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -24,23 +24,23 @@ A comprehensive Streamlit application that demonstrates AI-powered approaches to
 - [License](#license)
 - [Contact](#contact)
 
-## 🌍 Overview
+## Overview
 
 CarbonShift AI leverages artificial intelligence and machine learning to optimize supply chain operations, reducing carbon emissions while maintaining operational efficiency. The application provides actionable insights and optimization recommendations across four key supply chain areas:
 
-- **Predictive Demand Forecasting** 📊
-- **Green Route Optimization** 🚚
-- **Sustainable Supplier Scoring** 🏭
-- **Smart Warehouse Management** 📦
+- **Predictive Demand Forecasting** 
+- **Green Route Optimization** 
+- **Sustainable Supplier Scoring** 
+- **Smart Warehouse Management** 
 
-### 🎯 Key Benefits
+### Key Benefits
 
 - **25-40% reduction** in carbon emissions
 - **18-30% cost savings** through optimization
 - **Real-time AI-driven insights**
 - **Comprehensive sustainability reporting**
 
-## 🚀 Features
+## Features
 
 ### 1. Predictive Demand Forecasting
 - Machine learning models for accurate demand prediction
@@ -100,8 +100,8 @@ CarbonShift AI leverages artificial intelligence and machine learning to optimiz
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/carbon-footprint-scm.git
-   cd carbon-footprint-scm
+   git clone https://github.com/Axestein/UROP.git
+   cd UROP
    ```
 
 2. **Create and activate virtual environment**
@@ -173,7 +173,7 @@ carbon-footprint-scm/
     └── 7_📥_Data_Download.py
 ```
 
-## 🤖 AI Models & Algorithms
+## AI Models & Algorithms
 
 ### Machine Learning Models
 
@@ -192,7 +192,7 @@ carbon-footprint-scm/
 - **Time series forecasting** with seasonal decomposition
 - **Cluster analysis** for warehouse performance grouping
 
-## 📊 Data Sources
+## Data Sources
 
 ### Sample Datasets Included
 
@@ -230,7 +230,7 @@ carbon-footprint-scm/
 | **Inventory Turnover** | How quickly inventory is sold and replaced | 8.0+ |
 | **Delivery Reliability** | On-time delivery performance | 95-100% |
 
-## 🌱 Carbon Calculation Methodology
+## Carbon Calculation Methodology
 
 ### Emission Factors
 
@@ -285,7 +285,7 @@ EMISSION_FACTORS = {
 3. **Calculate ROI** - Quantify financial and environmental benefits
 4. **Set Targets** - Use AI insights to establish reduction goals
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -314,7 +314,7 @@ EMISSION_FACTORS = {
 }
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Local Deployment
 
@@ -371,16 +371,16 @@ flake8 .
 pytest tests/
 ```
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact & Support
+## Contact & Support
 
 - **Project Maintainer**: Aditya Kumar Singh
 - **Email**: adityandmb@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Streamlit** - For the amazing web application framework
 - **Scikit-learn** - Machine learning algorithms
@@ -394,6 +394,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🌍 Join us in building sustainable supply chains for a greener future!**
 
-[⭐ Star this repo](https://github.com/your-username/carbon-footprint-scm) if you find it helpful!
+[⭐ Star this repo](https://github.com/Axestein/UROP) if you find it helpful!
 
 </div>
