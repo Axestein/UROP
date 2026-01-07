@@ -81,13 +81,14 @@ CarbonShift AI leverages artificial intelligence and machine learning to optimiz
 
 | Dashboard | Demand Forecasting | Route Optimization |
 |-----------|-------------------|-------------------|
-| ![Dashboard](https://via.placeholder.com/400x250?text=Dashboard) | ![Demand](https://via.placeholder.com/400x250?text=Demand+Forecasting) | ![Routes](https://via.placeholder.com/400x250?text=Route+Optimization) |
+| ![Dashboard](https://github.com/user-attachments/assets/67232854-ea3d-4e50-8b7e-7accc5384108) | ![Demand](https://via.placeholder.com/400x250?text=Demand+Forecasting) | ![Routes](https://github.com/user-attachments/assets/a26b6454-5360-469c-800a-3ae791279740) |
 
 | Supplier Scoring | Warehouse Management | Research |
 |------------------|---------------------|----------|
-| ![Supplier](https://via.placeholder.com/400x250?text=Supplier+Scoring) | ![Warehouse](https://via.placeholder.com/400x250?text=Warehouse+Management) | ![Research](https://via.placeholder.com/400x250?text=Research+Methods) |
+| ![Supplier](https://github.com/user-attachments/assets/db07bea2-866b-4040-a319-fbf95c878309) | ![Warehouse](https://github.com/user-attachments/assets/bdad8dcd-5b58-45a4-a696-6c41c68b2dc8) | ![Research](https://github.com/user-attachments/assets/7eb10260-a1f2-4381-8195-e7d00bdb2ab8) |
 
-## 🛠️ Installation
+## 🛠️ Installation 
+
 
 ### Prerequisites
 
